@@ -1,0 +1,6 @@
+c:\users\dakota\documents\visual studio 2015\Projects\UniCode\UniCode\bin\Debug\UniCode.exe.config
+c:\users\dakota\documents\visual studio 2015\Projects\UniCode\UniCode\bin\Debug\UniCode.exe
+c:\users\dakota\documents\visual studio 2015\Projects\UniCode\UniCode\bin\Debug\UniCode.pdb
+c:\users\dakota\documents\visual studio 2015\Projects\UniCode\UniCode\obj\Debug\UniCode.csprojResolveAssemblyReference.cache
+c:\users\dakota\documents\visual studio 2015\Projects\UniCode\UniCode\obj\Debug\UniCode.exe
+c:\users\dakota\documents\visual studio 2015\Projects\UniCode\UniCode\obj\Debug\UniCode.pdb
